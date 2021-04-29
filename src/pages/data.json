@@ -1,0 +1,168 @@
+{
+"SocialMedias": [
+  "https://github.com/",
+  "https://www.linkedin.com/",
+  "https://www.facebook.com/"
+],
+"Nav": [
+	"HOME",
+	"PLATFORM",
+	"TECHNOLOGY",
+	"PAYMENT",
+	"CONTACT"
+],
+"Social": [
+  {
+	"email":"info@stash.com.sg",
+	"phone": "+65 8220 9072",
+	"linkedin": "https://www.linkedin.com/",
+	"instagram":"https://www.instagram.com/"
+  }
+],
+"HomeBanner": [
+  {
+	"hometext": "Powering engagement through Next-Gen Payment Technologies.",
+	"designation": "Web Designer & Front-End Developer"
+  }
+],
+"Platform": [
+  {	
+  	"imgurl":"../images/perform.png",
+	"title": "Platform",
+	"description": "<p>Stash provides a multi-layered software architecture that enables advanced customised platform solutions. Our technology focuses on program performance and offers an individualised purpose driven approach.</p><p> Through the use of an intuitive digital platform, Stash is engineered to enrich the user experience with personalization at every touch point that is supported with global reach.</p><p> Stash has a unique value proposition by embracing the latest consumer trends and converging next-gen payments with the latest in marketing technology.</p>"
+  }
+],
+
+"Technology": [
+  {
+	"imgurl":"../images/chip.svg",
+	"title": "Technology",
+	"description": " <p>The Stash global payment network provides dynamically selected and market specific incentive options.<p>Incorporating Mobile Wallets, Digital Open Loop Prepaid Cards, Digital Store cards, QR Codes and Coupons it adapts to evolving market needs.</p><p> At the centre of our technology are our AI and machine learning tools to dynamically optimise your program with real-time analytics.</p>                            <p>Our intuitive communication solution offers gamification, social network, and chatbot to deliver a ubiquitous customer engagement experience.</p>"
+}
+],
+
+"PaymentNetwork": [
+  {
+	"imgurl":"../images/vector.svg",
+	"title": "Payment Network",
+	"description": " <p>Having harnessed the rapid evolution of Fintech and creating a unique value chain in the process, Stash provides a mobile first solution that offers limitless reach for your program.</p><p> Stash has established a comprehensive network of payment partners to service all corners of the globe.</p><p> With over 10,000+ digital partners across many markets, no other provider has the ability to customise incentives with your brand at the same scale.</p>"
+ }
+],
+
+"ContacPage": [
+  {
+  	"pagetitle":"Contact Us",
+	"imgurl":"info@stash.com.sg",
+	"phone": "+65 8220 9072",
+	"description": "<p>Partnering with the leaders in each market, the Stash global payment network provides a dynamic selection of market specific solutions that includes Mobile Wallets, Digital Open Loop Prepaid Cards, Digital Store cards, QR Codes and Coupons.</p><p>Embracing the rapid evolution in Fintech, Stash provides a global network of mobile first payments that span across digital prepaid, retail cards, mobile wallets, QR codes, coupons and rewards. With extensive catalogue of over 10,000+ digital partners there is limitless reach for your program.</p>"
+ }
+],
+
+"Technologies": [
+  {
+  	"pagetitle":"Technologies",
+  	"pagesubtitle":"Purpose driven PERFORMANCE SOLUTIONS",
+	"Techdesc": [
+	  {
+		"image": "../images/payment.png",
+		"title":"Global payments",
+		"desc":"Our mobile first payment system provides a dynamic selection of market specific solutions that includes Mobile Wallets, QR Codes, Digital Open Loop Prepaid Cards, Digital Store cards."
+	  },
+	   {
+		"image": "../images/Communication.png",
+		"title":"Communication",
+		"desc":" Embracing the most advanced forms of communication tools available, Stash provides a seamless connection with your audience. We optimise engagement through a combination of gamification, learning tools, social network, chatbot and traditional points of contact."
+	  },
+	   {
+		"image": "../images/Lock.png",
+		"title":"Security",
+		"desc":"Stash has created technology architecture with security at the forefront of our design. Our Security Management Systems cover Product, System and Data protocols. Our modular design and muti-tiered administration systems provides data segmentation and program isolation."
+	  },
+	   {
+		"image": "../images/Chart.png",
+		"title":"Marketing Analytics & AI",
+		"desc":"Stash utilizes the power of data, AI technology and machine learning to dynamically evolve your program. Stash is able to modify your program in real-time and present payment options at an individual level. With the use of OCR, Stash is able to rapidly increase customer eligibility and reduce processing costs for programs of any size."
+	  }
+	]
+ }
+],
+"PaymentPage": [
+  {
+  	"pagetitle":"Payment Network",
+  	"pagesubtitle":"mobile first payments across the globe",
+  	"customtitle" : "Limitless reach.",
+  	"customdesc" : "<p>Partnering with leading brands within each market, the Stash global payment network provides a dynamic selection of market specific solutions that includes Mobile Wallets, Digital Prepaid Cards, Digital Store cards, QR Codes and Coupons.</p><p>Embracing the rapid evolution in Fintech, Stash provides a global network of mobile first payments that span across digital prepaid, retail cards, mobile wallets, QR codes, coupons and rewards. With extensive catalogue of over 10,000+ digital partners there is limitless reach for your program. Stash has established a comprehensive network of payment partners to service all corners of the globe.</p>",
+  	
+	"Paymentdesc": [
+	  {
+		"image": "../images/payment.png",
+		"title":"Global payments",
+		"desc":"Our mobile first payment system provides a dynamic selection of market specific solutions that includes Mobile Wallets, QR Codes, Digital Open Loop Prepaid Cards, Digital Store cards."
+	  },
+	   {
+		"image": "../images/Communication.png",
+		"title":"Communication",
+		"desc":" Embracing the most advanced forms of communication tools available, Stash provides a seamless connection with your audience. We optimise engagement through a combination of gamification, learning tools, social network, chatbot and traditional points of contact."
+	  },
+	   {
+		"image": "../images/Lock.png",
+		"title":"Security",
+		"desc":"Stash has created technology architecture with security at the forefront of our design. Our Security Management Systems cover Product, System and Data protocols. Our modular design and muti-tiered administration systems provides data segmentation and program isolation."
+	  },
+	   {
+		"image": "../images/Chart.png",
+		"title":"Marketing Analytics & AI",
+		"desc":"Stash utilizes the power of data, AI technology and machine learning to dynamically evolve your program. Stash is able to modify your program in real-time and present payment options at an individual level. With the use of OCR, Stash is able to rapidly increase customer eligibility and reduce processing costs for programs of any size."
+	  }
+	]
+ }
+],
+"PlatformPage": [
+  {
+  	"pagetitle":"Platform",
+  	"pagesubtitle":"MULTi-LAYERED SOFTWARE STACK",
+  	"customtitle" : "Customised solutions.",
+  	"customdesc" : "<p>Stash provides a multi-layered software architecture to enable customised platform solutions. Our technology offers individualised and purpose driven performance coupled with a global reach.</p><p>Through the use of a mobile first intuitive platform is designed to personalise each touch point and enrich the user experience.</p>",
+  	"softwaretitle" : "Our custom software stack.",
+  	"SoftwareList": [
+	 	 {
+		"image": "../images/TheStash.png",
+		"DetailList":[
+			"Inventory Management System",
+			"Global Network of Content Partners",
+			"Open API powering all Stash client applications",
+			"Realtime reporting system"
+			]
+		},
+	   {
+		"image": "../images/Stash Plus.png",
+		"DetailList":[
+			"Points and customer engagement engine",
+			"White labelled tiered programs",
+			"Multi market and Multi language solution",
+			"Mobile wallet with immediate reward access"
+			]
+		},
+	   {
+		"image": "../images/StashConnect.png",
+		"DetailList":[			
+				"Self-service portal",
+				"Client managed campaigns", 
+				"Immediate rewards issuance", 
+				"Realtime float balance"
+			]
+		},
+	   {
+		"image": "../images/StashConnect.png",
+		"DetailList":[
+			"Customer Campaign Manager",
+			"Draw down redemption platform",		
+			"OCR claim management system"
+			]
+		}
+	]
+ }
+]
+
+ 
+}
